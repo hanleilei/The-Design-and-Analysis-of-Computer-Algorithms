@@ -1,11 +1,12 @@
 /*
- * @Author: Han Oliver 
- * @Date: 2020-10-08 04:10:33
- * @LastEditTime: 2020-10-08 04:33:45
- * @LastEditors: Please set LastEditors
- * @Description: calcute n power n
- * @Test: input 5
- * @Test result: 5 ** 5 = 3125
+ * @Author: Han.Oliver
+ * @Email: hanleilei@gmail.com
+ * @Date: 2020-10-08 04:48:56
+ * @LastEditors: Han.Oliver
+ * @LastEditTime: 2020-10-08 07:11:20
+ * @Description: calculate n power n
+ * @Param: 5
+ * @return: 3125
  */
 #include <stdlib.h>
 #include <iostream>

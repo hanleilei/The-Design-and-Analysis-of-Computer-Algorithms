@@ -1,12 +1,15 @@
 '''
-Author: han oliver
-Date: 2020-10-08 04:25:57
-LastEditTime: 2020-10-08 04:44:08
-LastEditors: Please set LastEditors
-Description: calcute n power of n
-test: n = 5
-test result: 3125
+Author: Han.Oliver
+Email: hanleilei@gmail.com
+Date: 2020-10-08 04:48:56
+LastEditors: Han.Oliver
+LastEditTime: 2020-10-08 07:10:21
+Description: calculate n power n
+Param: 5
+return: 3125
 '''
+
+
 def nPowerN():
     r1 = int(input())
     if r1 <= 0:
@@ -21,3 +24,4 @@ def nPowerN():
 
 if __name__ == "__main__":
     nPowerN()
+
